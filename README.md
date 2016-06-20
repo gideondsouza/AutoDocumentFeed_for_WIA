@@ -1,6 +1,6 @@
 This project is a clone of this : http://adfwia.codeplex.com/
 
-After scouring the web I managed to write a small class library that allows you to use Windows® Image Acquisition 2.0 lib to scan multiple images from scanners with an auto document feeder.
+After scouring the web I managed to write a small class library that allows you to use WindowsÂ® Image Acquisition 2.0 lib to scan multiple images from scanners with an auto document feeder.
 
 So its plain and simple to use and also contains a Win forms test app.
 
@@ -28,8 +28,8 @@ So its plain and simple to use and also contains a Win forms test app.
 
 This lib references WIA 2.0, which is available by default on Vista and higher. 
 
-This works for Windows XP SP1 onward but you need to install Windows® Image Acquisition Automation Library v2.0 You may also need to run :
+This works for Windows XP SP1 onward but you need to install WindowsÂ® Image Acquisition Automation Library v2.0 You may also need to run :
 >regsvr32.exe wiaaut.dll 
 
 Tell me if you are using this successfully or anything else you like : 
-[http://gideondsouza.com/blog/scanning-multiple-documents-with-wia-2.0-adf-scanner ](http://gideondsouza.com/blog/scanning-multiple-documents-with-wia-2.0-adf-scanner )OR [http://gideondsouza.com/contact](http://gideondsouza.com/contact)
+[http://gideondsouza.com/blog/scanning-multiple-documents-with-wia-2.0-adf-scanner ](http://gideondsouza.com/blog/scanning-multiple-documents-with-wia-2.0-adf-scanner ) 
